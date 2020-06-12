@@ -1,0 +1,160 @@
+body {
+  background: url(../images/bg-desktop.svg) no-repeat fixed left bottom;
+  background-color: hsl(229, 57%, 11%);
+  font-family: "Raleway", sans-serif;
+  font-weight: 400, 700;
+  margin: 0;
+  width: 1440px;
+}
+
+progress {
+  position: relative;
+  left: 5px;
+  bottom: -25px;
+  width: 95%;
+  height: 20px;
+  margin: 5px;
+}
+
+span {
+  color: white;
+}
+
+.a {
+  position: absolute;
+  left: 10px;
+  bottom: 10px;
+
+}
+
+.b
+{
+  position: absolute;
+  right: 10px;
+  bottom: 10px;
+
+}
+
+.attribution {
+  position: absolute;
+  top: 10px;
+  left: 500px;
+  font-size: 11px;
+  text-align: center;
+  bottom: auto;
+}
+
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
+
+.boxone {
+  height: 150px;
+  width: 250px;
+  background-color: hsl(228, 56%, 26%);
+  border-radius: 15px 75px 15px 15px;
+  position: relative;
+  left: 200px;
+  top: 150px;
+  display: inline-block;
+  margin: 0;
+}
+
+.boxonea {
+  display: block;
+  padding: 30px;
+  position: relative;
+
+}
+
+.boxoneb {
+  background-color: hsl(229, 57%, 11%);
+  display: block;
+  position: relative;
+  display: inline-block;
+  border-style: solid;
+  border-color: hsl(229, 57%, 11%);
+  height: 20px;
+  width: 20px;
+  border-radius: 5px 5px 5px 5px;
+}
+
+
+.boxonec {
+  background-color: hsl(229, 57%, 11%);
+  display: block;
+  position: relative;
+  display: inline-block;
+  border-style: solid;
+  border-color: hsl(229, 57%, 11%);
+  height: 20px;
+  width: 20px;
+  border-radius: 5px 5px 5px 5px;
+}
+
+
+.boxoned {
+  background-color: hsl(229, 57%, 11%);
+  display: block;
+  position: relative;
+  display: inline-block;
+  border-style: solid;
+  border-color: hsl(229, 57%, 11%);
+  height: 20px;
+  width: 20px;
+  border-radius: 5px 5px 5px 5px;
+}
+
+.boxtwo {
+  height: 100px;
+  width: 410px;
+  background-color: hsl(228, 56%, 26%);
+  border-radius: 15px 15px 15px 15px;
+  position: relative;
+  left: 500px;
+  top: 50px;
+}
+
+.boxtwo label {
+  color: white;
+  text-decoration: none;
+  position: relative;
+  left: 10px;
+  top: 25px;
+  padding: 5px;
+  margin: 5px;
+}
+
+.bubble {
+  background-color: white;
+  border-radius: .4em;
+  line-height: 1.2rem;
+  margin: 0 auto 40px;
+  height: 50px;
+  width: 100px;
+  text-align: center;
+  position: absolute;
+  left: 300px;
+  bottom: 20px;
+}
+
+.bubblearrow {
+  border-left: 21px solid transparent;
+  border-top: 20px solid white;
+  bottom: -10px;
+  position: absolute;
+  right: 0px;
+}
+
+.divemove {
+  position: relative;
+  display: inline-block;
+  left: 15%;
+  bottom: 15px;
+  margin: 8px;
+}
+
+.siteicon {
+    background: url(../images/logo.svg) no-repeat center;
+    background-size: contain;
+  }
